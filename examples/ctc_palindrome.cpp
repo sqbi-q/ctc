@@ -1,4 +1,6 @@
+#define CTC_IMPLEMENTATION
 #include "../ctc.hpp"
+
 #include <cassert>
 #include <string_view>
 

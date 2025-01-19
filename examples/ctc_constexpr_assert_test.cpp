@@ -3,6 +3,7 @@
  * Example usage of constexpr_assert macro inside function.
  */
 
+#define CTC_IMPLEMENTATION
 #include "../ctc.hpp"
 
 constexpr int nonzero(int value) {

@@ -1,4 +1,5 @@
 #define NDEBUG_RUNTIME 0
+#define CTC_IMPLEMENTATION
 #include "../ctc.hpp"
 
 struct Natural : public ctc<Natural> {
