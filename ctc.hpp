@@ -4,6 +4,10 @@
 // For a copy, see `LICENSE` file or <https://opensource.org/licenses/MIT>.
 
 
+// Do: `#define CTC_IMPLEMENTATION`
+// before you include header in C++ file to create the implementation.
+
+
 /**
  * @def constexpr_assert(Cond, Msg)
  * Macro for assertion and throwing exception inside constexpr function.
